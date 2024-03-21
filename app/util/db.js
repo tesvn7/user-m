@@ -14,9 +14,9 @@ export const users = [
     "password": "password456"
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Bob Williams",
-    "age": 40,
+    "age": "40",
     "email": "bob@example.com",
     "password": "password789"
   },
@@ -68,12 +68,5 @@ export const users = [
     "age": "31",
     "email": "susan@example.com",
     "password": "password303132"
-  },
-  {
-    "id": "11",
-    "name": "User-11",
-    "age": "22",
-    "email": "user11@gmail.com",
-    "password": "userll@password"
   }
 ]
